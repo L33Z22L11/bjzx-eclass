@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+---
+title: '宝中高一网课回放'
+---
 
-You can use the [editor on GitHub](https://github.com/fileport/fileport.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# 宝中高一网课回放
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+本信息由纸鹿收集整理，禁止向无关人员提供，违者责任自负！
 
-### Markdown
+<iframe style="width:333px;height:100px;max-width:100%;border:none;display:block;margin:auto" src="http://ucme.icu/banner.html" width="333" height="100"></iframe>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![课程表](http://l33z22l11.gitee.io/app16/wk.jpg)
 
-```markdown
-Syntax highlighted code block
+------
 
-# Header 1
-## Header 2
-### Header 3
+## 网课回放
 
-- Bulleted
-- List
+> a代表上午，p代表下午，w代表全天，仅在直播结束后才发放本次回放。如未更新或有疑问，请[点击此处](http://wpa.qq.com/msgrd?v=3&uin=2399052066&site=qq&menu=yes)与我取得联系。
 
-1. Numbered
-2. List
+- 3.3a [2019级3月3日上午平行班直播教室二维码](https://hezhibo.migucloud.com/play/3qQpWydqP5M)
 
-**Bold** and _Italic_ and `Code` text
+- 3.2w [2019级3月2日上午平行班](https://hezhibo.migucloud.com/play/QjNvvvlli18)
 
-[Link](url) and ![Image](src)
-```
+- 3.1p [19级下午普通](https://hezhibo.migucloud.com/play/xywVpS9wAcw)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- 3.1a [3.1号高一普班](https://hezhibo.migucloud.com/play/QynYQ_u77P8)
 
-### Jekyll Themes
+- ~~2.2~2.28 中庆云直播(无法回放) [宝鸡中学直播2](https://cloudlive.zonekey.com.cn/cloudlive/index.html#/liveShowDetails?id=1580619225305)~~
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fileport/fileport.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![QQ：2399052066](http://thirdqq.qlogo.cn/g?b=qq&nk=2399052066&s=3)
 
-### Support or Contact
+------
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+2019-2020 宝中22届16班 [官网](http://ucme.icu)
