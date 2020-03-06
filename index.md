@@ -16,7 +16,11 @@ title: '宝中高一网课回放'
 
 > a代表上午，p代表下午，w代表全天，仅在直播结束后才发放本次回放。如未更新或有疑问，请[点击此处](http://wpa.qq.com/msgrd?v=3&uin=2399052066&site=qq&menu=yes)与我取得联系。
 
-- 3.5p [高一3.5下午平行班](https://hezhibo.migucloud.com/play/BpyNnXG1d0U)
+- 3.6p [2019级3月6日下午高一平行班](https://hezhibo.migucloud.com/play/3q05GNa6W3Q)
+
+- 3.6a [高一3.6上午平行班](https://hezhibo.migucloud.com/play/BpyNnXG1d0U)
+
+- 3.5p [高一3.5下午平行班](https://hezhibo.migucloud.com/play/1xrLcb9xBtQ)
 
 - 3.5a [高一3.5上午平行班](https://hezhibo.migucloud.com/play/xB6iDW-CdcM)
 
