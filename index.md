@@ -6,7 +6,7 @@ title: '宝中高一网课回放'
 
 本信息由纸鹿收集整理，禁止向无关人员提供，违者责任自负！
 
-<iframe style="width:333px;height:100px;max-width:100%;border:none;display:block;margin:auto" src="http://ucme.icu/banner.html" width="333" height="100"></iframe>
+<iframe style="width:324px;height:120px;max-width:100%;border:none;display:block;margin:auto" src="http://ucme.icu/banner.html" width="324" height="120"></iframe>
 
 ![课程表](http://l33z22l11.gitee.io/app16/wk.jpg)
 
