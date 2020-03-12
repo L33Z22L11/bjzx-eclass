@@ -8,7 +8,7 @@ title: '宝中高一网课回放'
 
 [对2020年3月10日直播平台以及先前其他直播平台恶意刷屏事件的致歉与声明](200310apology)
 
-<iframe style="width:324px;height:120px;max-width:100%;border:none;display:block;margin:auto" src="https://ucme.icu/banner.html" width="324" height="120"></iframe>
+<iframe style="width:324px;height:120px;max-width:100%;border:none;display:block;margin:auto" src="https://l33z22l11.github.io/ucme.icu/banner.html" width="324" height="120"></iframe>
 
 ![课程表](http://l33z22l11.gitee.io/app16/wk.jpg)
 
