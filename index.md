@@ -18,6 +18,10 @@ title: '宝中高一网课回放'
 
 > a代表上午，p代表下午，w代表全天，仅在直播结束后才发放本次回放。如未更新或有疑问，请[点击此处](http://wpa.qq.com/msgrd?v=3&uin=2399052066&site=qq&menu=yes)与我取得联系。
 
+- 3.12a [2019级3月12日下午高一平行班直播](https://hezhibo.migucloud.com/watch/lpal7cp_2eQ)
+
+- 3.12a [2019级3月12日上午平行班](https://hezhibo.migucloud.com/watch/1cE3_lXO89E)
+
 - 3.11p [2019级3月11日下午平行班](https://hezhibo.migucloud.com/play/-ivFsjps0p0)
 
   > 生物老师：因为设备问题，今天的课进行的不是很顺利，给大家发一下[我今天同课头的听课码](https://hezhibo.migucloud.com/play/8sixDX3_khk)，大家可以看回放，做作业
