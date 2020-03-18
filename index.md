@@ -14,9 +14,9 @@
 
 > a代表上午，p代表下午，w代表全天，仅在直播结束后才发放本次回放。如未更新或有疑问，请[点击此处](http://wpa.qq.com/msgrd?v=3&uin=2399052066&site=qq&menu=yes)与我取得联系。
 
-- 3.18p [2019级3月16日下午高一平行班直播](https://hezhibo.migucloud.com/play/K-yJsMwORzU)
+- 3.18p [2019级3月18日下午高一平行班直播](https://hezhibo.migucloud.com/watch/K-yJsMwORzU)
 
-- 3.18a [2019级3月18日上午平行班](https://hezhibosn.migucloud.com/watch/FryMB0zb_II)
+- 3.18a [2019级3月18日上午平行班](https://hezhibo.migucloud.com/watch/FryMB0zb_II)
 
 - 3.17p [2019级3月17日下午平行班](https://hezhibo.migucloud.com/watch/tTKikvmbphA)
 
