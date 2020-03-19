@@ -1,5 +1,7 @@
 # 宝中高一网课回放
 
+## [**电子课本**](ebook)
+
 本信息由纸鹿收集整理，禁止向无关人员提供，违者责任自负！
 
 [对2020年3月10日直播平台以及先前其他直播平台恶意刷屏事件的致歉与声明](200310apology)
@@ -13,6 +15,10 @@
 ## 网课回放
 
 > a代表上午，p代表下午，w代表全天，仅在直播结束后才发放本次回放。如未更新或有疑问，请[点击此处](http://wpa.qq.com/msgrd?v=3&uin=2399052066&site=qq&menu=yes)与我取得联系。
+
+- 3.19p [2019级3月19日下午高一平行班直播](https://hezhibo.migucloud.com/watch/RANg_yMEeQ4)
+
+- 3.19a [2019级3月19日上午高一平行班](https://hezhibo.migucloud.com/watch/eZU1X1s-Qeo)
 
 - 3.18p [2019级3月18日下午高一平行班直播](https://hezhibo.migucloud.com/watch/K-yJsMwORzU)
 
