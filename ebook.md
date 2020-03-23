@@ -1,18 +1,14 @@
 # 不停课不停学 | 电子课本聚合
 
-## [**网课回放**](index)
+[**➲返回主页**](index)　　[**➲网课回放**](replay)
 
 > 在使用前，纸鹿已经为你们踩过坑了，所以一定要下面的使用须知，防止掉坑~
 >
-> 带官方的都是出版社网站，其中还有一些学科的部分教学用书，人教官方页面略有卡顿。其他的等想起来再补充。
+> 带“官方”的都是出版社网站，人教官方页面预览略有卡顿，但提供下载；北师大官方页面只提供预览；湘教官方页面只提供下载。其他的等想起来再补充。
 
-**目录** | [语文](#语文) [数学](#数学) [英语](#英语) [物理](#物理) [化学](#化学) [思想政治](#思想政治) [历史](#历史) [地理](#地理) [生物](#生物) [相关链接](#相关链接)
-
-<iframe style="width:324px;height:120px;max-width:100%;border:none;display:block;margin:auto" src="banner.html" width="324" height="120"></iframe>
+**目录** / [语文](#语文) [数学](#数学) [英语](#英语) [物理](#物理) [化学](#化学) [思想政治](#思想政治) [历史](#历史) [地理](#地理) [生物](#生物) [相关链接](#相关链接)
 
 ## 语文
-
-[返回顶部](#)
 
 ### 语文人教官方
 
@@ -28,8 +24,6 @@
 [必修5](https://m.yixuela.com/books/yuwen/rjb/rjbgzywbx5)
 
 ## 数学
-
-[返回顶部](#)
 
 ### 数学北师大官方
 
@@ -56,8 +50,6 @@
 [选修4-6](http://www.100875.com.cn/show/resourceDetail_eBookAndTeacher.html?resId=9c4e7d13fbc84481b4b7472149976c16&type=SYN&contributeId=9318&tp=Ebook)
 [选修4-7](http://www.100875.com.cn/show/resourceDetail_eBookAndTeacher.html?resId=3a2767d1dca84e3b912f464725a4c242&type=SYN&contributeId=9285&tp=Ebook)
 
-### 数学易学啦
-
 [必修1](https://m.yixuela.com/books/shuxue/bsd/bsdsxbx1)
 [必修2](https://m.yixuela.com/books/shuxue/bsd/bsdsxbx2)
 [必修3](https://m.yixuela.com/books/shuxue/bsd/bsdsxbx3)
@@ -65,8 +57,6 @@
 [必修5](https://m.yixuela.com/books/shuxue/bsd/bsdsxbx5)
 
 ## 英语
-
-[返回顶部](#)
 
 ### 英语人教官方
 
@@ -82,8 +72,6 @@
 [必修5](https://m.yixuela.com/books/yingyu/rjb/rjbgzyybx5)
 
 ## 物理
-
-[返回顶部](#)
 
 ### 物理人教官方
 
@@ -106,8 +94,6 @@
 
 ## 化学
 
-[返回顶部](#)
-
 ### 化学人教官方
 
 [化学教科书](https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbhxjc/)
@@ -126,8 +112,6 @@
 [选修6](https://m.yixuela.com/books/huaxue/rjb/rjbgzhxxx6)
 
 ## 思想政治
-
-[返回顶部](#)
 
 ### 思想政治人教官方
 
@@ -150,8 +134,6 @@
 
 ## 历史
 
-[返回顶部](#)
-
 ### 历史课本库
 
 [必修1](http://www.kebenku.com/jiaocai/lishi/renmin/10bx1/64258.html)
@@ -165,7 +147,7 @@
 [选修5](http://www.kebenku.com/jiaocai/lishi/renmin/12xx5/69315.html)
 [选修6](http://www.kebenku.com/jiaocai/lishi/renmin/12xx6/69312.html)
 
-### 历史电子课本网(跳转PDF,较慢)
+### 历史电子课本网(跳转PDF下载,较慢)
 
 [必修1](http://www.dzkbw.com/books/renming/lishi/pgbx1/)
 [必修2](http://www.dzkbw.com/books/renming/lishi/pgbx2/)
@@ -180,7 +162,14 @@
 
 ## 地理
 
-[返回顶部](#)
+### 地理湘教官方(PDF下载,禁止商用)
+
+[湘教版高中地理必修1.pdf](https://bkw-legacy.oss-cn-shenzhen.aliyuncs.com/cms/news/2020-02-03/iqslDEBmQVuxRpxFaVccAw.pdf)
+[湘教版高中地理必修2.pdf](https://bkw-legacy.oss-cn-shenzhen.aliyuncs.com/cms/news/2020-02-03/N9PyB62fRJyd7x_LXThubA.pdf)
+[湘教版高中地理必修3.pdf](https://bkw-legacy.oss-cn-shenzhen.aliyuncs.com/cms/news/2020-02-03/2x8wQ0uQRuGKR2CYMk1HUQ.pdf)
+
+[湘教版高中地理选修3.pdf](https://bkw-legacy.oss-cn-shenzhen.aliyuncs.com/cms/news/2020-02-03/zXtVm6vMRieuXUQpOAahfQ.pdf)
+[湘教版高中地理选修6.pdf](https://bkw-legacy.oss-cn-shenzhen.aliyuncs.com/cms/news/2020-02-03/A4uJbtfFSW-evGH2oEKLOw.pdf)
 
 ### 地理课本库
 
@@ -189,7 +178,7 @@
 
 [选修6](http://www.kebenku.com/jiaocai/dili/xiangjiao/11xx6/69350.html)
 
-### 地理电子课本网(跳转PDF,较慢)
+### 地理电子课本网(跳转PDF下载,较慢)
 
 [必修1](http://www.dzkbw.com/books/xjb/dili/gzbx1/)
 [必修2](http://www.dzkbw.com/books/xjb/dili/gzbx2/)
@@ -199,8 +188,6 @@
 [选修6](http://www.dzkbw.com/books/xjb/dili/gzxx6/)
 
 ## 生物
-
-[返回顶部](#)
 
 ### 生物人教官方
 
@@ -225,8 +212,6 @@
 
 ## 相关链接
 
-[返回顶部](#)
-
 ### 官方出版社电子课本
 
 [【人民教育出版社官方】普通高中课程标准实验教科书](https://bp.pep.com.cn/jc/ptgzkcbzsyjks/)
@@ -244,9 +229,9 @@
 
 [【瑞文网】教材电子课本](https://www.ruiwen.com/jiaocai/)
 
-[[导航站]电子课本网](http://www.dzkbw.com/)
+[电子课本网(仅导航)](http://www.dzkbw.com/)
 
-[[导航站]好多电子课本网](http://www.haoduoyun.cc/)
+[好多电子课本网(仅导航)](http://www.haoduoyun.cc/)
 
 ------
 
