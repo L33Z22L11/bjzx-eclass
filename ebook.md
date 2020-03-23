@@ -35,13 +35,16 @@
 
 [选修1-1](http://www.100875.com.cn/show/resourceDetail_eBookAndTeacher.html?resId=32dca9ff01d04552844178d217ebc0cd&type=SYN&contributeId=9284&tp=Ebook)
 [选修1-2](http://www.100875.com.cn/show/resourceDetail_eBookAndTeacher.html?resId=817434bae0914d0d9c1a7fba79943a52&type=SYN&contributeId=9316&tp=Ebook)
+
 [选修2-1](http://www.100875.com.cn/show/resourceDetail_eBookAndTeacher.html?resId=8dd5310ef80c4328ba675c5155332580&type=SYN&contributeId=9319&tp=Ebook)
 [选修2-2](http://www.100875.com.cn/show/resourceDetail_eBookAndTeacher.html?resId=86b2ac3edd404180963c44a45bb5f0ba&type=SYN&contributeId=9310&tp=Ebook)
 [选修2-3](http://www.100875.com.cn/show/resourceDetail_eBookAndTeacher.html?resId=fb32a152fa9d4e7b92f5f0aa5b4bdbb7&type=SYN&contributeId=9301&tp=Ebook)
+
 [选修3-1](http://www.100875.com.cn/show/resourceDetail_eBookAndTeacher.html?resId=9eb6209b63a14f438c51cc4dcd1e31bd&type=SYN&contributeId=9315&tp=Ebook)
 ~~选修3-2~~
 [选修3-3](http://www.100875.com.cn/show/resourceDetail_eBookAndTeacher.html?resId=54257122fe71403db3ef1f1328b5fff2&type=SYN&contributeId=9291&tp=Ebook)
 [选修3-4](http://www.100875.com.cn/show/resourceDetail_eBookAndTeacher.html?resId=d547ab2e6e8e47edb9efcafdd8ebc172&type=SYN&contributeId=9321&tp=Ebook)
+
 [选修4-1](http://www.100875.com.cn/show/resourceDetail_eBookAndTeacher.html?resId=53077913bb6d4a9097c1ced9e204912c&type=SYN&contributeId=9320&tp=Ebook)
 [选修4-2](http://www.100875.com.cn/show/resourceDetail_eBookAndTeacher.html?resId=d827971fdf06420abf61e7b540a8633d&type=SYN&contributeId=9211&tp=Ebook)
 ~~选修4-3~~
@@ -49,6 +52,8 @@
 [选修4-5](http://www.100875.com.cn/show/resourceDetail_eBookAndTeacher.html?resId=b1c63c62bcf141618e9bc135cd39e10c&type=SYN&contributeId=9312&tp=Ebook)
 [选修4-6](http://www.100875.com.cn/show/resourceDetail_eBookAndTeacher.html?resId=9c4e7d13fbc84481b4b7472149976c16&type=SYN&contributeId=9318&tp=Ebook)
 [选修4-7](http://www.100875.com.cn/show/resourceDetail_eBookAndTeacher.html?resId=3a2767d1dca84e3b912f464725a4c242&type=SYN&contributeId=9285&tp=Ebook)
+
+### 数学易学啦
 
 [必修1](https://m.yixuela.com/books/shuxue/bsd/bsdsxbx1)
 [必修2](https://m.yixuela.com/books/shuxue/bsd/bsdsxbx2)
@@ -85,7 +90,7 @@
 
 [选修1-1](https://m.yixuela.com/books/wuli/rjb/rjbgzwlxx11)
 [选修1-2](https://m.yixuela.com/books/wuli/rjb/rjbgzwlxx12)
-~~选修2-*~~
+
 [选修3-1](https://m.yixuela.com/books/wuli/rjb/rjbgzwlxx31)
 [选修3-2](https://m.yixuela.com/books/wuli/rjb/rjbgzwlxx32)
 [选修3-3](https://m.yixuela.com/books/wuli/rjb/rjbgzwlxx33)
@@ -147,7 +152,7 @@
 [选修5](http://www.kebenku.com/jiaocai/lishi/renmin/12xx5/69315.html)
 [选修6](http://www.kebenku.com/jiaocai/lishi/renmin/12xx6/69312.html)
 
-### 历史电子课本网(跳转PDF下载,较慢)
+### 历史电子课本网(跳转PDF,较慢)
 
 [必修1](http://www.dzkbw.com/books/renming/lishi/pgbx1/)
 [必修2](http://www.dzkbw.com/books/renming/lishi/pgbx2/)
@@ -178,7 +183,7 @@
 
 [选修6](http://www.kebenku.com/jiaocai/dili/xiangjiao/11xx6/69350.html)
 
-### 地理电子课本网(跳转PDF下载,较慢)
+### 地理电子课本网(跳转PDF,较慢)
 
 [必修1](http://www.dzkbw.com/books/xjb/dili/gzbx1/)
 [必修2](http://www.dzkbw.com/books/xjb/dili/gzbx2/)

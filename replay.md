@@ -63,7 +63,7 @@
 [2019级3月9日下午平行班](https://hezhibo.migucloud.com/watch/2yiAYGmFoXg)
 [2019级3月9日上午平行班](https://hezhibo.migucloud.com/watch/chnx6TEhTtM)
 
-- 3.8p
+- 3.8
 [2019级3月8日下午平行班](https://hezhibo.migucloud.com/watch/B1HZ8hJ_nCg)
 [2019届3月8日上午高一平行班](https://hezhibo.migucloud.com/watch/mzoY5DU7qEc)
 
