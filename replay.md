@@ -8,6 +8,18 @@
 
 ## 2020年3月 [⤒](#)
 
+- 3.28
+[2019级3月26日上午高一平行班直播](https://hezhibo.migucloud.com/watch/BogE-UPBCv8)
+[2019级3月28日上午高一平行班](https://hezhibo.migucloud.com/watch/W7IfKG4WL70)
+
+- 3.27
+[2019级3月27日下午高一平行班](https://hezhibo.migucloud.com/watch/B7wNgpAQpb4)
+[2019级3月27日上午高一平行班](https://hezhibo.migucloud.com/watch/pJMOrI0VX-8)
+
+- 3.26
+[2019级3月26日下午平行班](https://hezhibo.migucloud.com/watch/4h-UyavK59A)
+[2019级3月26日上午高一平行班直播](https://hezhibo.migucloud.com/watch/EqLiyN29-8Q)
+
 - 3.25
 [2019级3月25日下午高一平行班直播](https://hezhibo.migucloud.com/watch/WhAaIOju17Y)
 [2019级3月25日上午高一平行班直播](https://hezhibo.migucloud.com/watch/-mmcQWReX20)
