@@ -2,14 +2,36 @@
 
 [**➲返回主页**](index)　　[**➲电子课本**](ebook)
 
-**2020年** / [3月](#2020年3月) [2月](#2020年2月)
+**2020年** / [4月](#2020年4月) [3月](#2020年3月) [2月](#2020年2月)
 
 > a代表上午，p代表下午，w代表全天，仅在直播结束后才发放本次回放。如未更新或有疑问，请[点击此处](http://wpa.qq.com/msgrd?v=3&uin=2399052066&site=qq&menu=yes)与我取得联系。
 
+## 2020年4月 [⤒](#)
+
+- 4.3
+[2019级4月3日下午高一平行班](https://hezhibo.migucloud.com/watch/Yel_u_WTYo8)
+[2019级4月3日上午高一平行班](https://hezhibo.migucloud.com/watch/XP84PBtq26Q)
+
+- 4.2
+[2019级4月2日下午高一平行班](https://hezhibo.migucloud.com/watch/xercbC4nBQY)
+[2019级4月2日上午高一平行班](https://hezhibo.migucloud.com/watch/IGwOcaYlsbc)
+
+- 4.1
+[2019级4月1日下午高一平行班](https://hezhibo.migucloud.com/watch/EFWCM6zPTbQ)
+[2019级4月1日上午高一平行班](https://hezhibo.migucloud.com/watch/mQCFXyEMXCQ)
+
 ## 2020年3月 [⤒](#)
 
+- 3.31
+[2019级3月31日下午高一平行班](https://hezhibo.migucloud.com/watch/-XkZCFyfY8w)
+[2019级3月31日上午高一平行班](https://hezhibo.migucloud.com/watch/3GNo6IGbVxk)
+
+- 3.30
+[2019级3月30日下午高一平行班](https://hezhibo.migucloud.com/watch/N70ice9i1bk)
+[2019级3月30日上午高一平行班](https://hezhibo.migucloud.com/watch/ONqVj0GvVLo)
+
 - 3.28
-[2019级3月26日上午高一平行班直播](https://hezhibo.migucloud.com/watch/BogE-UPBCv8)
+[2019级3月28日下午高一平行班](https://hezhibo.migucloud.com/watch/BogE-UPBCv8)
 [2019级3月28日上午高一平行班](https://hezhibo.migucloud.com/watch/W7IfKG4WL70)
 
 - 3.27
