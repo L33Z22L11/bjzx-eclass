@@ -4,7 +4,7 @@
 
 **2020年** / [4月](#2020年4月) [3月](#2020年3月) [2月](#2020年2月)
 
-> a代表上午，p代表下午，w代表全天，仅在直播结束后才发放本次回放。如未更新或有疑问，请[点击此处](http://wpa.qq.com/msgrd?v=3&uin=2399052066&site=qq&menu=yes)与我取得联系。
+> 2.2~4.11的网课已经结束。如有疑问，请[点击此处](http://wpa.qq.com/msgrd?v=3&uin=2399052066&site=qq&menu=yes)与我取得联系。
 
 ## 2020年4月 [⤒](#)
 
@@ -86,7 +86,7 @@
 [2019级3月13日下午高一平行班直播](https://hezhibo.migucloud.com/watch/WmigM9EFnKk)
 [2019级3月13日上午高一平行班直播](https://hezhibo.migucloud.com/watch/lfB4CjBiH_Q)
 
-- 3.12p
+- 3.12
 [2019级3月12日下午高一平行班直播](https://hezhibo.migucloud.com/watch/lpal7cp_2eQ)
 [2019级3月12日上午平行班](https://hezhibo.migucloud.com/watch/1cE3_lXO89E)
 
