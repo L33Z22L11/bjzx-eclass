@@ -2,21 +2,20 @@
 
 [**➲返回主页**](index)　　[**➲网课回放**](replay)
 
-> 在使用前，纸鹿已经为你们踩过坑了，所以看看下面的使用须知总不会亏~
+> 在使用前，纸鹿已经为你们踩过坑了，所以一定要下面的使用须知，防止掉坑~
 >
-> 带“官方”的都是出版社网站，人教官方页面预览略有卡顿，但**提供PDF下载**；北师大官方页面只提供预览；湘教官方页面只提供PDF下载。其他的等想起来再补充。
+> 带“官方”的都是出版社网站，人教官方页面预览略有卡顿，但提供下载；北师大官方页面只提供预览；湘教官方页面只提供下载。其他的等想起来再补充。
 
 **目录** / [语文](#语文) [数学](#数学) [英语](#英语) [物理](#物理) [化学](#化学) [思想政治](#思想政治) [历史](#历史) [地理](#地理) [生物](#生物) [相关链接](#相关链接)
 
 ## 语文
 
-**人教官方**
+### 语文人教官方
+
 [语文教科书](https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjc/)
 [语文教师教学用书](https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbywjsys/)
 
-<details>
-
-<summary>易学啦</summary>
+### 语文易学啦
 
 [必修1](https://m.yixuela.com/books/yuwen/rjb/rjbgzywbx1)
 [必修2](https://m.yixuela.com/books/yuwen/rjb/rjbgzywbx2)
@@ -24,13 +23,9 @@
 [必修4](https://m.yixuela.com/books/yuwen/rjb/rjbgzywbx4)
 [必修5](https://m.yixuela.com/books/yuwen/rjb/rjbgzywbx5)
 
-</details>
-
 ## 数学
 
-<details>
-
-<summary>北师大官方</summary>
+### 数学北师大官方
 
 [必修1](http://www.100875.com.cn/show/resourceDetail_eBookAndTeacher.html?resId=50a27afd37844da9bdc0f6f4fb21dc77&type=SYN&contributeId=9208&tp=Ebook)
 [必修2](http://www.100875.com.cn/show/resourceDetail_eBookAndTeacher.html?resId=374aa753d08c4a829041d43841f3eca5&type=SYN&contributeId=9234&tp=Ebook)
@@ -58,11 +53,7 @@
 [选修4-6](http://www.100875.com.cn/show/resourceDetail_eBookAndTeacher.html?resId=9c4e7d13fbc84481b4b7472149976c16&type=SYN&contributeId=9318&tp=Ebook)
 [选修4-7](http://www.100875.com.cn/show/resourceDetail_eBookAndTeacher.html?resId=3a2767d1dca84e3b912f464725a4c242&type=SYN&contributeId=9285&tp=Ebook)
 
-</details>
-
-<details>
-
-<summary>易学啦</summary>
+### 数学易学啦
 
 [必修1](https://m.yixuela.com/books/shuxue/bsd/bsdsxbx1)
 [必修2](https://m.yixuela.com/books/shuxue/bsd/bsdsxbx2)
@@ -70,16 +61,14 @@
 [必修4](https://m.yixuela.com/books/shuxue/bsd/bsdsxbx4)
 [必修5](https://m.yixuela.com/books/shuxue/bsd/bsdsxbx5)
 
-</details>
-
 ## 英语
 
-**人教官方**
+### 英语人教官方
+
 [英语教科书](https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbyyjc/)
 [英语教师教学用书](https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbyyjsys/)
 
-<details>
-<summary>易学啦</summary>
+### 英语易学啦
 
 [必修1](https://m.yixuela.com/books/yingyu/rjb/rjbgzyybx1)
 [必修2](https://m.yixuela.com/books/yingyu/rjb/rjbgzyybx2)
@@ -87,17 +76,14 @@
 [必修4](https://m.yixuela.com/books/yingyu/rjb/rjbgzyybx4)
 [必修5](https://m.yixuela.com/books/yingyu/rjb/rjbgzyybx5)
 
-</details>
-
 ## 物理
 
-**人教官方**
+### 物理人教官方
+
 [物理教科书](https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbwljc/)
 [物理教师教学用书](https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbwljsys/)
 
-<details>
-
-<summary>易学啦</summary>
+### 物理易学啦
 
 [必修1](https://m.yixuela.com/books/wuli/rjb/rjbgzwlbx1)
 [必修2](https://m.yixuela.com/books/wuli/rjb/rjbgzwlbx2)
@@ -111,17 +97,14 @@
 [选修3-4](https://m.yixuela.com/books/wuli/rjb/rjbgzwlxx34)
 [选修3-5](https://m.yixuela.com/books/wuli/rjb/rjbgzwlxx35)
 
-</details>
-
 ## 化学
 
-**人教官方**
+### 化学人教官方
+
 [化学教科书](https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbhxjc/)
 [化学教师教学用书](https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbhxjsys/)
 
-<details>
-
-<summary>易学啦</summary>
+### 化学易学啦
 
 [必修1](https://m.yixuela.com/books/huaxue/rjb/rjbgzhxbx1)
 [必修2](https://m.yixuela.com/books/huaxue/rjb/rjbgzhxbx2)
@@ -133,17 +116,14 @@
 [选修5](https://m.yixuela.com/books/huaxue/rjb/rjbgzhxxx5)
 [选修6](https://m.yixuela.com/books/huaxue/rjb/rjbgzhxxx6)
 
-</details>
-
 ## 思想政治
 
-**人教官方**
+### 思想政治人教官方
+
 [思想政治教科书](https://bp.pep.com.cn/jc/ptgzkcbzsyjks/)
 [思想政治教师教学用书](https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbsxzzjsys/)
 
-<details>
-
-<summary>易学啦</summary>
+### 思想政治易学啦
 
 [必修1](https://m.yixuela.com/books/zhengzhi/rjb/rjbzzgzbx1)
 [必修2](https://m.yixuela.com/books/zhengzhi/rjb/rjbzzgzbx2)
@@ -157,13 +137,9 @@
 [选修5](https://m.yixuela.com/books/zhengzhi/rjb/rjbgszzxx5)
 [选修6](https://m.yixuela.com/books/zhengzhi/rjb/rjbgszzxx6)
 
-</details>
-
 ## 历史
 
-<details>
-
-<summary>课本库</summary>
+### 历史课本库
 
 [必修1](http://www.kebenku.com/jiaocai/lishi/renmin/10bx1/64258.html)
 [必修2](http://www.kebenku.com/jiaocai/lishi/renmin/10bx2/64256.html)
@@ -176,11 +152,7 @@
 [选修5](http://www.kebenku.com/jiaocai/lishi/renmin/12xx5/69315.html)
 [选修6](http://www.kebenku.com/jiaocai/lishi/renmin/12xx6/69312.html)
 
-</details>
-
-<details>
-
-<summary>电子课本网(跳转PDF,较慢)</summary>
+### 历史电子课本网(跳转PDF,较慢)
 
 [必修1](http://www.dzkbw.com/books/renming/lishi/pgbx1/)
 [必修2](http://www.dzkbw.com/books/renming/lishi/pgbx2/)
@@ -193,11 +165,9 @@
 [选修5](http://www.dzkbw.com/books/renming/lishi/pgxx5/)
 [选修6](http://www.dzkbw.com/books/renming/lishi/pgxx6/)
 
-</details>
-
 ## 地理
 
-**湘教官方**(PDF下载,禁止商用)
+### 地理湘教官方(PDF下载,禁止商用)
 
 [湘教版高中地理必修1.pdf](https://bkw-legacy.oss-cn-shenzhen.aliyuncs.com/cms/news/2020-02-03/iqslDEBmQVuxRpxFaVccAw.pdf)
 [湘教版高中地理必修2.pdf](https://bkw-legacy.oss-cn-shenzhen.aliyuncs.com/cms/news/2020-02-03/N9PyB62fRJyd7x_LXThubA.pdf)
@@ -206,20 +176,14 @@
 [湘教版高中地理选修3.pdf](https://bkw-legacy.oss-cn-shenzhen.aliyuncs.com/cms/news/2020-02-03/zXtVm6vMRieuXUQpOAahfQ.pdf)
 [湘教版高中地理选修6.pdf](https://bkw-legacy.oss-cn-shenzhen.aliyuncs.com/cms/news/2020-02-03/A4uJbtfFSW-evGH2oEKLOw.pdf)
 
-<details>
-
-<summary>课本库</summary>
+### 地理课本库
 
 [必修2](http://www.kebenku.com/jiaocai/dili/xiangjiao/10bx2/60786.html)
 [必修3](http://www.kebenku.com/jiaocai/dili/xiangjiao/10bx3/60784.html)
 
 [选修6](http://www.kebenku.com/jiaocai/dili/xiangjiao/11xx6/69350.html)
 
-</details>
-
-<details>
-
-<summary>电子课本网(跳转PDF,较慢)</summary>
+### 地理电子课本网(跳转PDF,较慢)
 
 [必修1](http://www.dzkbw.com/books/xjb/dili/gzbx1/)
 [必修2](http://www.dzkbw.com/books/xjb/dili/gzbx2/)
@@ -228,18 +192,14 @@
 [选修3](http://www.dzkbw.com/books/xjb/dili/gzxx3/)
 [选修6](http://www.dzkbw.com/books/xjb/dili/gzxx6/)
 
-</details>
-
 ## 生物
 
-**人教官方**
+### 生物人教官方
 
 [生物教科书](https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbswjc/)
 [生物教师教学用书](https://bp.pep.com.cn/jc/ptgzkcbzsyjks/gzkbswjsys/)
 
-<details>
-
-<summary>课本库</summary>
+### 生物课本库
 
 [必修1](http://www.kebenku.com/jiaocai/shengwu/renjiao/10bx1/76659.html)
 [必修2](http://www.kebenku.com/jiaocai/shengwu/renjiao/10bx2/76642.html)
@@ -249,23 +209,15 @@
 [选修2](http://www.kebenku.com/jiaocai/shengwu/renjiao/12xx2/76570.html)
 [选修3](http://www.kebenku.com/jiaocai/shengwu/renjiao/12xx3/76565.html)
 
-</details>
-
-<details>
-
-<summary>易学啦</summary>
+### 生物易学啦
 
 ~~必修1~~
 [必修2](https://m.yixuela.com/books/shengwu/rjb/rjbswgebx2)
 [必修3](https://m.yixuela.com/books/shengwu/rjb/rjbswgebx3)
 
-</details>
-
 ## 相关链接
 
-<details>
-
-<summary>官方出版社电子课本</summary>
+### 官方出版社电子课本
 
 [【人民教育出版社官方】普通高中课程标准实验教科书](https://bp.pep.com.cn/jc/ptgzkcbzsyjks/)
 [常见问题与解答](https://bp.pep.com.cn/jc/202002/t20200217_1949977.html)
@@ -274,11 +226,7 @@
 
 [【湖南教育出版社旗下】贝壳网](https://www.bakclass.com/)
 
-</details>
-
-<details>
-
-<summary>第三方网站</summary>
+### 第三方网站
 
 [【易学啦】电子课本网](https://m.yixuela.com/books/)
 
@@ -289,8 +237,6 @@
 [电子课本网(仅导航)](http://www.dzkbw.com/)
 
 [好多电子课本网(仅导航)](http://www.haoduoyun.cc/)
-
-</details>
 
 ------
 

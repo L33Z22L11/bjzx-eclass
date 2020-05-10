@@ -8,10 +8,6 @@
 
 ## 2020年4月 [⤒](#top)
 
-<details>
-
-<summary>4.5-4.11</summary>
-
 - 4.11
 [2019级4月11日下午高一平行班](https://hezhibo.migucloud.com/watch/-kJWaJhePKA)
 [2019级4月11日上午高一平行班](https://hezhibo.migucloud.com/watch/-kJWaJhePKA)
@@ -36,12 +32,6 @@
 [2019级4月6日下午高一平行班](https://hezhibo.migucloud.com/watch/0etqukntuj0)
 [2019级4月6日上午高一平行班](https://hezhibo.migucloud.com/watch/Qom60kMqK6Q)
 
-</details>
-
-<details>
-
-<summary>4.1-4.4</summary>
-
 - 4.3
 [2019级4月3日下午高一平行班](https://hezhibo.migucloud.com/watch/Yel_u_WTYo8)
 [2019级4月3日上午高一平行班](https://hezhibo.migucloud.com/watch/XP84PBtq26Q)
@@ -54,13 +44,7 @@
 [2019级4月1日下午高一平行班](https://hezhibo.migucloud.com/watch/EFWCM6zPTbQ)
 [2019级4月1日上午高一平行班](https://hezhibo.migucloud.com/watch/mQCFXyEMXCQ)
 
-</details>
-
 ## 2020年3月 [⤒](#top)
-
-<details>
-
-<summary>3.29-3.31</summary>
 
 - 3.31
 [2019级3月31日下午高一平行班](https://hezhibo.migucloud.com/watch/-XkZCFyfY8w)
@@ -69,12 +53,6 @@
 - 3.30
 [2019级3月30日下午高一平行班](https://hezhibo.migucloud.com/watch/N70ice9i1bk)
 [2019级3月30日上午高一平行班](https://hezhibo.migucloud.com/watch/ONqVj0GvVLo)
-
-</details>
-
-<details>
-
-<summary>3.22-3.28</summary>
 
 - 3.28
 [2019级3月28日下午高一平行班](https://hezhibo.migucloud.com/watch/BogE-UPBCv8)
@@ -104,12 +82,6 @@
 [2019级3月22日下午平行班](https://hezhibo.migucloud.com/watch/81odTpmK3D0)
 [2019级3月22日上午平行班](https://hezhibo.migucloud.com/watch/_CUYiy4jRjc)
 
-</details>
-
-<details>
-
-<summary>3.15-3.21</summary>
-
 - 3.20
 [2019级3月20日下午高一平行班直播](https://hezhibo.migucloud.com/watch/un5yKGB_uGA)
 [2019级3月20日上午高一平行班直播](https://hezhibo.migucloud.com/watch/jNtTcXoc3ec)
@@ -133,12 +105,6 @@
 - 3.15
 [2019级3月15日下午平行班](https://hezhibo.migucloud.com/watch/dHBNs2VuBHA)
 [2019级3月15日上午高一平行班直播](https://hezhibo.migucloud.com/watch/cBVg5B5ha4M)
-
-</details>
-
-<details>
-
-<summary>3.8-3.14</summary>
 
 - 3.13
 [2019级3月13日下午高一平行班直播](https://hezhibo.migucloud.com/watch/WmigM9EFnKk)
@@ -166,12 +132,6 @@
 [2019级3月8日下午平行班](https://hezhibo.migucloud.com/watch/B1HZ8hJ_nCg)
 [2019届3月8日上午高一平行班](https://hezhibo.migucloud.com/watch/mzoY5DU7qEc)
 
-</details>
-
-<details>
-
-<summary>3.1-3.7</summary>
-
 - 3.6
 [2019级3月6日下午高一平行班](https://hezhibo.migucloud.com/watch/3q05GNa6W3Q)
 [高一3.6上午平行班](https://hezhibo.migucloud.com/watch/BpyNnXG1d0U)
@@ -194,8 +154,6 @@
 - 3.1
 [19级下午普通](https://hezhibo.migucloud.com/watch/xywVpS9wAcw)
 [3.1号高一普班(上午)](https://hezhibo.migucloud.com/watch/QynYQ_u77P8)
-
-</details>
 
 ## 2020年2月 [⤒](#top)
 
