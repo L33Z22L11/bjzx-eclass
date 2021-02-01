@@ -161,7 +161,7 @@
 
 [选修3-1](http://www.kebenku.com/jiaocai/wuli/renjiao/11xx31/65531.html)
 [选修3-2](http://www.kebenku.com/jiaocai/wuli/renjiao/11xx32/68630.html)
-[选修3-3](http://www.kebenku.com/jiaocai/wuli/renjiao/12xx3-3/65644.html
+[选修3-3](http://www.kebenku.com/jiaocai/wuli/renjiao/12xx3-3/65644.html)
 [选修3-4](http://www.kebenku.com/jiaocai/wuli/renjiao/12xx3-4/65643.html)
 [选修3-5](http://www.kebenku.com/jiaocai/wuli/renjiao/12xx3-5/65642.html)
 
