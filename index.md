@@ -6,7 +6,7 @@
 
 <iframe style="width:324px;height:120px;max-width:100%;border:none;display:block;margin:auto" src="//h5.zhilu.cyou/termtimer_iframe.html" width="324" height="120"></iframe>
 
-## ClassIn　在线帮助中心
+## ClassIn 在线帮助中心
 
 [新用户请点我](https://help.eeo.cn/83ca)　　[下载安装与登录](https://help.eeo.cn/17d8)
 
