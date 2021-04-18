@@ -4,7 +4,7 @@
 
 本信息由纸鹿收集整理，禁止向无关人员提供，违者责任自负！
 
-<iframe style="width:324px;height:120px;max-width:100%;border:none;display:block;margin:auto" src="//h5.zhilu.cyou/termtimer_iframe.html" width="324" height="120"></iframe>
+<iframe style="width:324px;height:120px;max-width:100%;border:none;display:block;margin:auto" src="//h5.zhilu.cyou/termtimer_embed.html" width="324" height="120"></iframe>
 
 ## ClassIn 在线帮助中心
 
